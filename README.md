@@ -1,3 +1,3 @@
-### This is fist git
+### This is first git
 - One
 - Two
